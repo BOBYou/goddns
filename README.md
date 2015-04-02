@@ -1,0 +1,2 @@
+# goddns
+ddns for golang !
